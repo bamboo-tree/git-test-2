@@ -1,11 +1,15 @@
 # Demo 2
 
-Amazing readme file!
+Aparently it is not such a great repository as I thought.
 
-Holly molly! Is that?
+but it will be
 
-No way... it can't be
+btw if you are reading this, my github is so empty because one day I thought it would be a good idea to delete all existing ropositories :(
 
-It is!
+[I know it was dumb, there was a simple python app that converted youtube music to MP4 file, and single pendulum simulator, also written in python using pygame]
 
-Santa Claus 🎅
+but probably no one will ever see this, these projects will only exist in my memories... I must protect them!
+
+what am I writing here?!
+
+I am following some git and github course, and now I write some novel 
