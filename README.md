@@ -1,6 +1,6 @@
 # Demo 2
 
-Aparently it is not such a great repository as I thought.
+Apparently it is not such a great repository as I thought.
 
 but it will be
 
